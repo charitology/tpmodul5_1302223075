@@ -12,3 +12,4 @@ D:\Dara\KPL\tpmodul5_1302223075\tpmodul5_1302223075\obj\Debug\net8.0\refint\tpmo
 D:\Dara\KPL\tpmodul5_1302223075\tpmodul5_1302223075\obj\Debug\net8.0\tpmodul5_1302223075.pdb
 D:\Dara\KPL\tpmodul5_1302223075\tpmodul5_1302223075\obj\Debug\net8.0\tpmodul5_1302223075.genruntimeconfig.cache
 D:\Dara\KPL\tpmodul5_1302223075\tpmodul5_1302223075\obj\Debug\net8.0\ref\tpmodul5_1302223075.dll
+D:\Dara\KPL\tpmodul5_1302223075\tpmodul5_1302223075\obj\Debug\net8.0\tpmodul5_1302223075.sourcelink.json
