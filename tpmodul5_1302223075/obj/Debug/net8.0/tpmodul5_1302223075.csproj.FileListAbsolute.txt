@@ -1,0 +1,14 @@
+D:\Dara\KPL\tpmodul5_1302223075\tpmodul5_1302223075\bin\Debug\net8.0\tpmodul5_1302223075.exe
+D:\Dara\KPL\tpmodul5_1302223075\tpmodul5_1302223075\bin\Debug\net8.0\tpmodul5_1302223075.deps.json
+D:\Dara\KPL\tpmodul5_1302223075\tpmodul5_1302223075\bin\Debug\net8.0\tpmodul5_1302223075.runtimeconfig.json
+D:\Dara\KPL\tpmodul5_1302223075\tpmodul5_1302223075\bin\Debug\net8.0\tpmodul5_1302223075.dll
+D:\Dara\KPL\tpmodul5_1302223075\tpmodul5_1302223075\bin\Debug\net8.0\tpmodul5_1302223075.pdb
+D:\Dara\KPL\tpmodul5_1302223075\tpmodul5_1302223075\obj\Debug\net8.0\tpmodul5_1302223075.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dara\KPL\tpmodul5_1302223075\tpmodul5_1302223075\obj\Debug\net8.0\tpmodul5_1302223075.AssemblyInfoInputs.cache
+D:\Dara\KPL\tpmodul5_1302223075\tpmodul5_1302223075\obj\Debug\net8.0\tpmodul5_1302223075.AssemblyInfo.cs
+D:\Dara\KPL\tpmodul5_1302223075\tpmodul5_1302223075\obj\Debug\net8.0\tpmodul5_1302223075.csproj.CoreCompileInputs.cache
+D:\Dara\KPL\tpmodul5_1302223075\tpmodul5_1302223075\obj\Debug\net8.0\tpmodul5_1302223075.dll
+D:\Dara\KPL\tpmodul5_1302223075\tpmodul5_1302223075\obj\Debug\net8.0\refint\tpmodul5_1302223075.dll
+D:\Dara\KPL\tpmodul5_1302223075\tpmodul5_1302223075\obj\Debug\net8.0\tpmodul5_1302223075.pdb
+D:\Dara\KPL\tpmodul5_1302223075\tpmodul5_1302223075\obj\Debug\net8.0\tpmodul5_1302223075.genruntimeconfig.cache
+D:\Dara\KPL\tpmodul5_1302223075\tpmodul5_1302223075\obj\Debug\net8.0\ref\tpmodul5_1302223075.dll
